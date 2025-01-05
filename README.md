@@ -9,7 +9,7 @@
 
 # QUINNAB
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_QUINNAB._
 
 </header>
 
@@ -19,11 +19,11 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   and tell the learner why they should take the course.
 -->
 
-## Welcome
+## Welcome To QUINNAB
 
 With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
 
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
+- **What this quinnab**: This is my stori.
 - **What you'll learn**: How to build a GitHub Pages site.
 - **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
 - **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
