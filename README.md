@@ -9,6 +9,8 @@
 
 # QUINNAB
 
+<img src="assets/images/logo.png" alt="Logo.png" width="200">
+
 QUINNAB is [briefly describe the purpose or function of your project, for example: web-based platform for data management, AI application, or automation tool]. This project is designed for [a brief explanation of what your project will do].
 
 </header>
