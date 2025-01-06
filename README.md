@@ -1,25 +1,12 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
 # QUINNAB
 
-## Tampilan Aplikasi
+QUINNAB is [briefly describe the purpose or function of your project, for example: web-based platform for data management, Al application, or automation tool]. This project is designed for [a brief explanation of what your project will do].
 
-QUINNAB is [briefly describe the purpose or function of your project, for example: web-based platform for data management, AI application, or automation tool]. This project is designed for [a brief explanation of what your project will do].
 
-</header>
 
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
+
 
 ## Main Features
 
