@@ -1,6 +1,6 @@
 <header>
 
-# QUINNAB
+# QUINNAB AI
 
 QUINNAB is [briefly describe the purpose or function of your project, for example: web-based platform for data management, Al application, or automation tool]. This project is designed for [a brief explanation of what your project will do].
 
