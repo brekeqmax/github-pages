@@ -26,7 +26,7 @@ QUINNAB is [briefly describe the purpose or function of your project, for exampl
 
 -	 🌐 [Feature 3] - Explain this feature.
 
-  Technology Used
+## Technology Used
 
 This project is developed using:
 
@@ -44,15 +44,62 @@ In this course, you will:
 2. Configure your site
 3. Customize your home page
 4. Create a blog post
-5. Merge your pull request
+5. Merge your pull 
 
-### 
-<footer>
+## Installation and Usage
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+  Prerequisites
+
+Before starting, make sure you have installed:
+
+-	 Node.js vXX.X.X or newer
+
+-	 Git vX.X.X or newer
+
+Installation Steps
+
+1.	 Clone this repository:
+
+Git clone https://github.com/username/QUINNAB.git
+
+QUINNAB cd
+
+2.	 Install dependencies:
+
+Npm install
+
+3.	 Run the application:
+
+Npm run dev
+
+4.	 Open in the browser on:
+
+Http://localhost:3000
+
+Contribution
+
+Contributions are very welcome! Here's how you can help:
+
+1.	 Fork this repository.
+
+2.	 Create a new feature branch:
+
+Git checkout -b your-feature
+
+3.	 Commit your changes:
+
+Git commit -m "Add great features"
+
+4.	 Push to your branch:
+
+Git push origin feature-you
+
+5.	 Make a Pull Request.
+
+License
+
+This project is licensed under the MIT License.
+
 
 ---
 
