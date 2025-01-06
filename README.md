@@ -89,13 +89,10 @@ Http://localhost:3000
 
 QUINNAB AI provides several endpoints to access AI services:
 
-Endpoint	 Method	 Description
-
-/Fire/analyze	 POST	 Doing data analysis.
-
-/Fire/predict	 POST	 Get AI prediction.
-
-/Fire/status	 GET	 Checking server status.
+Endpoint,Metode,Deskripsi
+/api/analyze,POST,Melakukan analisis data.
+/api/predict,POST,Mendapatkan prediksi AI.
+/api/status,GET,Mengecek status server.
 
 For more information, see the API Documentation.
 
