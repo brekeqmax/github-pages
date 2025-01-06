@@ -26,13 +26,17 @@ QUINNAB is [briefly describe the purpose or function of your project, for exampl
 
 -	 🌐 [Feature 3] - Explain this feature.
 
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
+  Technology Used
 
-- **What this quinnab**: This is my stori.
-- **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-- **How long**: This course takes less than one hour to complete.
+This project is developed using:
+
+-	 Frontend: [React/Next.js/Vue.js or other technology]
+
+-	 Backend: [Node.js/Django/Flask or other technology]
+
+-	 Database: [MySQL/PostgreSQL/MongoDB or other technology]
+
+-	 Others: [Library or additional framework]
 
 In this course, you will:
 
