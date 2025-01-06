@@ -11,8 +11,6 @@
 
 ## Tampilan Aplikasi
 
-![Tampilan Dashboard QUINNAB AI](logo.png)
-
 QUINNAB is [briefly describe the purpose or function of your project, for example: web-based platform for data management, AI application, or automation tool]. This project is designed for [a brief explanation of what your project will do].
 
 </header>
