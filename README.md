@@ -9,7 +9,7 @@
 
 # QUINNAB
 
-_QUINNAB is [briefly describe the purpose or function of your project, for example: web-based platform for data management, AI application, or automation tool]. This project is designed for [a brief explanation of what your project will do].
+QUINNAB is [briefly describe the purpose or function of your project, for example: web-based platform for data management, AI application, or automation tool]. This project is designed for [a brief explanation of what your project will do].
 
 </header>
 
@@ -19,7 +19,12 @@ _QUINNAB is [briefly describe the purpose or function of your project, for examp
   and tell the learner why they should take the course.
 -->
 
-## Welcome To QUINNAB
+## Main Features
+-	 ✨ [Feature 1] - Explain this feature.
+
+-	 ⚡ [Feature 2] - Explain this feature.
+
+-	 🌐 [Feature 3] - Explain this feature.
 
 With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
 
