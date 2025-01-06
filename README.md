@@ -20,77 +20,100 @@ QUINNAB is [briefly describe the purpose or function of your project, for exampl
 -->
 
 ## Main Features
--	 ✨ [Feature 1] - Explain this feature.
 
--	 ⚡ [Feature 2] - Explain this feature.
+-	 🤖 Advanced AI Processing: Using state-of-the-art AI technology for accurate analysis and prediction.
 
--	 🌐 [Feature 3] - Explain this feature.
+-	 ⚡ Process Automation: Increase efficiency with AI-based automation.
+
+-	 📊 Data Analytics: Provides data-based insights through easy-to-understand visualization.
+
+-	 🌐 Easy Integration: Can be integrated with various platforms and other systems.
+
+-	 🔒 Data Security: Ensure privacy and security of user data.
 
 ## Technology Used
 
-This project is developed using:
+QUINNAB AI is built using the following technologies:
 
--	 Frontend: [React/Next.js/Vue.js or other technology]
+-	 Frontend Framework: [React.js/Next.js]
 
--	 Backend: [Node.js/Django/Flask or other technology]
+-	 Backend Framework: [Node.js/Django/Flask]
 
--	 Database: [MySQL/PostgreSQL/MongoDB or other technology]
+-	 AI Framework: TensorFlow, PyTorch, or OpenAI API
 
--	 Others: [Library or additional framework]
+-	 Database: [MongoDB/PostgreSQL/MySQL]
 
-In this course, you will:
+-	 Cloud: [AWS/Google Cloud/Azure]
 
-1. Enable GitHub Pages
-2. Configure your site
-3. Customize your home page
-4. Create a blog post
-5. Merge your pull 
+Installation and Usage
 
-## Installation and Usage
+Prerequisites
 
-  Prerequisites
-
-Before starting, make sure you have installed:
+Make sure you have:
 
 -	 Node.js vXX.X.X or newer
 
+-	 Python v3. X.X (if using Python backend)
+
 -	 Git vX.X.X or newer
 
-Installation Steps
+-	 API Key from [AI platform used, such as OpenAI or other services].
+
+## Installation Steps
 
 1.	 Clone this repository:
 
-Git clone https://github.com/username/QUINNAB.git
+Git clone https://github.com/username/QUINNAB-AI.git
 
-QUINNAB cd
+Cd QUINNAB-AI
 
 2.	 Install dependencies:
 
 Npm install
 
-3.	 Run the application:
+3.	 Add API configuration to .env file:
+
+AI_API_KEY=your_api_key_here
+
+DATABASE_URL=your_database_url
+
+4.	 Run the application:
 
 Npm run dev
 
-4.	 Open in the browser on:
+5.	 Access the application on:
 
 Http://localhost:3000
 
-Contribution
+## API Documentation
 
-Contributions are very welcome! Here's how you can help:
+QUINNAB AI provides several endpoints to access AI services:
+
+Endpoint	 Method	 Description
+
+/Fire/analyze	 POST	 Doing data analysis.
+
+/Fire/predict	 POST	 Get AI prediction.
+
+/Fire/status	 GET	 Checking server status.
+
+For more information, see the API Documentation.
+
+## Contribution
+
+Contributions are always welcome! Here are the steps to contribute:
 
 1.	 Fork this repository.
 
-2.	 Create a new feature branch:
+2.	 Create a new branch for a feature or improvement:
 
 Git checkout -b your-feature
 
 3.	 Commit your changes:
 
-Git commit -m "Add great features"
+Git commit -m "Add new features"
 
-4.	 Push to your branch:
+4.	 Push your branch:
 
 Git push origin feature-you
 
@@ -99,8 +122,7 @@ Git push origin feature-you
 License
 
 This project is licensed under the MIT License.
-
-
+	 
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
